@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\GuessingGame\GuessingGame\obj\Debug\net8.0\GuessingGame.sourcelink.json

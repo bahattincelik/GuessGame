@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\pages\\guessinggame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\pages\\guessinggame.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\data\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\data\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|c:\\users\\lenovo\\source\\repos\\guessinggame\\guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BD1EBA-E6A7-449A-9D92-467CB842C03F}|GuessingGame\\GuessingGame.csproj|solutionrelative:guessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "GuessingGame\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Pages\\Home.razor",
+              "RelativeToolTip": "GuessingGame\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:34:51.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\App.razor",
+              "RelativeDocumentMoniker": "GuessingGame\\App.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\App.razor",
+              "RelativeToolTip": "GuessingGame\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:25:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "GuessingGame\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "GuessingGame\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:25:21.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "GuessingGame\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "GuessingGame\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:24:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GuessingGame.razor",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Pages\\GuessingGame.razor",
+              "RelativeDocumentMoniker": "GuessingGame\\Pages\\GuessingGame.razor",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Pages\\GuessingGame.razor",
+              "RelativeToolTip": "GuessingGame\\Pages\\GuessingGame.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:13:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "GuessingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Program.cs",
+              "RelativeToolTip": "GuessingGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:00:18.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Data\\GameService.cs",
+              "RelativeDocumentMoniker": "GuessingGame\\Data\\GameService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\GuessingGame\\GuessingGame\\Data\\GameService.cs",
+              "RelativeToolTip": "GuessingGame\\Data\\GameService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T10:57:26.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

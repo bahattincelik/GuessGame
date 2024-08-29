@@ -1,0 +1,40 @@
+﻿@page "/guessinggame"
+@inject GuessingGame.Data.GameService GameService
+
+<h3>Guess the Number</h3>
+
+@if (!gameStarted)
+{
+    <button @onclick="StartGame">Start New Game</button>
+}
+else
+{
+    <p>Attempts: @GameService.GetAttempts()</p>
+
+    <label>Enter your guess: </label>
+    <input @bind="userGuess" type="number" />
+    <button @onclick="MakeGuess">Submit Guess</button>
+
+    @if (!string.IsNullOrEmpty(resultMessage))
+    {
+        <p>@resultMessage</p>
+    }
+}
+
+@code {
+    private bool gameStarted = false;
+    private int userGuess;
+    private string resultMessage;
+
+    private void StartGame()
+    {
+        GameService.StartNewGame();
+        gameStarted = true;
+        resultMessage = string.Empty;
+    }
+
+    private void MakeGuess()
+    {
+        resultMessage = GameService.MakeGuess(userGuess);
+    }
+}
